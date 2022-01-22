@@ -11,10 +11,12 @@ main{
 }
 
 section{
-    margin-top: 200px;
+    
     background-color: rgb(185, 185, 185);
-    margin:200px 350px ;
+    margin:auto ;
+    margin-top: 200px;
     padding: 20px;
+    width: 600px;
     border-radius: 30px;
     /*border: 1px solid black ;*/
     box-shadow: 5px 10px 15px 0  black;
