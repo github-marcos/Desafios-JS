@@ -16,7 +16,8 @@ section{
     margin:200px 350px ;
     padding: 20px;
     border-radius: 30px;
-    border: 1px solid black ;
+    /*border: 1px solid black ;*/
+    box-shadow: 5px 10px 15px 0  black;
 }
 
 h1{
