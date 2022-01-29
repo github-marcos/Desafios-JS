@@ -2,6 +2,9 @@
 
 body{
     text-align: center;
+    background-image: url('imagens/medida.jpg');
+    
+    background-size: calc( 1800);
 }
 
 h1{
