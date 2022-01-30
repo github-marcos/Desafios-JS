@@ -11,17 +11,4 @@ function carregar(){
   Decímetros(dm): ${medida1 * 10}<br>
   Centímetros(cm): ${medida1 * 100}<br>
   Milímetros(mm): ${medida1 * 1000} `
-
-
-  /*var medida4 = window.document.getElementById('p')
-  medida3.innerHTML = ` Decâmetros(Dam): ${medida1 * 10}`
-
-  var medida5 = window.document.getElementById('p')
-  medida3.innerHTML = ` Decímetros(dm): ${medida1 / 10}`
-
-  var medida6 = window.document.getElementById('p')
-  medida3.innerHTML = ` Centímetros(Dam): ${medida1 / 100}`
-
-  var medida7 = window.document.getElementById('p')
-  medida3.innerHTML = ` Milímetros(mm): ${medida1 / 1000}`*/
 }
