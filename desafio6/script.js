@@ -10,6 +10,6 @@ var res3 = window.document.getElementById('h3')
 res3.innerHTML = (` ${res + 273,15}°K (kelvin)`)
 
 var res4 = window.document.getElementById('h4')
-res4.innerHTML = `${res * 9/5 + 32}°F (Fahrenheit)`
+res4.innerHTML = `${(res * 9/5) + 32}°F (Fahrenheit)`
 
 }
